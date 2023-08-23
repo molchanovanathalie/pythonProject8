@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DZ_8",
+    "extension": "py",
+    "type": "file"
+  },
+  {
+    "name": "result",
+    "extension": "txt",
+    "type": "file"
+  },
+  {
+    "name": ".idea",
+    "type": "directory"
+  },
+  {
+    "name": "venv",
+    "type": "directory"
+  }
+]
